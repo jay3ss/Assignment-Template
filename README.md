@@ -26,7 +26,7 @@ Save this file.
 #### Regular Usage:
 
 ```
-File -> New from Template... -> AssignmentTemplate.lyx
+File -> New from Template... -> assignment.lyx
 ```
 And then similarly to the setup,
 ```
