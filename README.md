@@ -12,7 +12,7 @@ A setup step is required only one time to reduce editing on subsequent files.
 
 #### Setup:
 ```
-File -> Open -> AssignmentTemplate.lyx
+File -> Open -> assignment.lyx
 Document -> Settings... -> LaTeX Preamble
 ```
 From this screen, change the constants under the header
